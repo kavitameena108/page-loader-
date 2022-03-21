@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#loading{
+    position: fixed;
+    width: 100%;
+   height: 100vh;
+   background: #000 url('https://cdn.dribbble.com/users/530580/screenshots/4712372/loader.gif')
+   no-repeat center ;
+   z-index: 99999;
+}
