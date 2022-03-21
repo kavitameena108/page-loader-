@@ -8,5 +8,6 @@
    height: 100vh;
    background: #000 url('https://i.pinimg.com/originals/97/e9/4d/97e94d340c2cd2504c6e25b74fb3dd8a.gif')
    no-repeat center ;
+    background size: 30x;
    z-index: 99999;
 }
